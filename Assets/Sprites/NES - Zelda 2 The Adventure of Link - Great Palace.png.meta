@@ -1,0 +1,1906 @@
+fileFormatVersion: 2
+guid: 035f3fe22635302479c6204a5e1312da
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: NES - Zelda 2 The Adventure of Link - Great Palace_0
+    21300002: NES - Zelda 2 The Adventure of Link - Great Palace_1
+    21300004: NES - Zelda 2 The Adventure of Link - Great Palace_2
+    21300006: NES - Zelda 2 The Adventure of Link - Great Palace_3
+    21300008: NES - Zelda 2 The Adventure of Link - Great Palace_4
+    21300010: NES - Zelda 2 The Adventure of Link - Great Palace_5
+    21300012: NES - Zelda 2 The Adventure of Link - Great Palace_6
+    21300014: NES - Zelda 2 The Adventure of Link - Great Palace_7
+    21300016: NES - Zelda 2 The Adventure of Link - Great Palace_8
+    21300018: NES - Zelda 2 The Adventure of Link - Great Palace_9
+    21300020: NES - Zelda 2 The Adventure of Link - Great Palace_10
+    21300022: NES - Zelda 2 The Adventure of Link - Great Palace_11
+    21300024: NES - Zelda 2 The Adventure of Link - Great Palace_12
+    21300026: NES - Zelda 2 The Adventure of Link - Great Palace_13
+    21300028: NES - Zelda 2 The Adventure of Link - Great Palace_14
+    21300030: NES - Zelda 2 The Adventure of Link - Great Palace_15
+    21300032: NES - Zelda 2 The Adventure of Link - Great Palace_16
+    21300034: NES - Zelda 2 The Adventure of Link - Great Palace_17
+    21300036: NES - Zelda 2 The Adventure of Link - Great Palace_18
+    21300038: NES - Zelda 2 The Adventure of Link - Great Palace_19
+    21300040: NES - Zelda 2 The Adventure of Link - Great Palace_20
+    21300042: NES - Zelda 2 The Adventure of Link - Great Palace_21
+    21300044: NES - Zelda 2 The Adventure of Link - Great Palace_22
+    21300046: NES - Zelda 2 The Adventure of Link - Great Palace_23
+    21300048: NES - Zelda 2 The Adventure of Link - Great Palace_24
+    21300050: NES - Zelda 2 The Adventure of Link - Great Palace_25
+    21300052: NES - Zelda 2 The Adventure of Link - Great Palace_26
+    21300054: NES - Zelda 2 The Adventure of Link - Great Palace_27
+    21300056: NES - Zelda 2 The Adventure of Link - Great Palace_28
+    21300058: NES - Zelda 2 The Adventure of Link - Great Palace_29
+    21300060: NES - Zelda 2 The Adventure of Link - Great Palace_30
+    21300062: NES - Zelda 2 The Adventure of Link - Great Palace_31
+    21300064: NES - Zelda 2 The Adventure of Link - Great Palace_32
+    21300066: NES - Zelda 2 The Adventure of Link - Great Palace_33
+    21300068: NES - Zelda 2 The Adventure of Link - Great Palace_34
+    21300070: NES - Zelda 2 The Adventure of Link - Great Palace_35
+    21300072: NES - Zelda 2 The Adventure of Link - Great Palace_36
+    21300074: NES - Zelda 2 The Adventure of Link - Great Palace_37
+    21300076: NES - Zelda 2 The Adventure of Link - Great Palace_38
+    21300078: NES - Zelda 2 The Adventure of Link - Great Palace_39
+    21300080: NES - Zelda 2 The Adventure of Link - Great Palace_40
+    21300082: NES - Zelda 2 The Adventure of Link - Great Palace_41
+    21300084: NES - Zelda 2 The Adventure of Link - Great Palace_42
+    21300086: NES - Zelda 2 The Adventure of Link - Great Palace_43
+    21300088: NES - Zelda 2 The Adventure of Link - Great Palace_44
+    21300090: NES - Zelda 2 The Adventure of Link - Great Palace_45
+    21300092: NES - Zelda 2 The Adventure of Link - Great Palace_46
+    21300094: NES - Zelda 2 The Adventure of Link - Great Palace_47
+    21300096: NES - Zelda 2 The Adventure of Link - Great Palace_48
+    21300098: NES - Zelda 2 The Adventure of Link - Great Palace_49
+    21300100: NES - Zelda 2 The Adventure of Link - Great Palace_50
+    21300102: NES - Zelda 2 The Adventure of Link - Great Palace_51
+    21300104: NES - Zelda 2 The Adventure of Link - Great Palace_52
+    21300106: NES - Zelda 2 The Adventure of Link - Great Palace_53
+    21300108: NES - Zelda 2 The Adventure of Link - Great Palace_54
+    21300110: NES - Zelda 2 The Adventure of Link - Great Palace_55
+    21300112: NES - Zelda 2 The Adventure of Link - Great Palace_56
+    21300114: NES - Zelda 2 The Adventure of Link - Great Palace_57
+    21300116: NES - Zelda 2 The Adventure of Link - Great Palace_58
+    21300118: NES - Zelda 2 The Adventure of Link - Great Palace_59
+    21300120: NES - Zelda 2 The Adventure of Link - Great Palace_60
+    21300122: NES - Zelda 2 The Adventure of Link - Great Palace_61
+    21300124: NES - Zelda 2 The Adventure of Link - Great Palace_62
+    21300126: NES - Zelda 2 The Adventure of Link - Great Palace_63
+    21300128: NES - Zelda 2 The Adventure of Link - Great Palace_64
+    21300130: NES - Zelda 2 The Adventure of Link - Great Palace_65
+    21300132: NES - Zelda 2 The Adventure of Link - Great Palace_66
+    21300134: NES - Zelda 2 The Adventure of Link - Great Palace_67
+    21300136: NES - Zelda 2 The Adventure of Link - Great Palace_68
+    21300138: NES - Zelda 2 The Adventure of Link - Great Palace_69
+    21300140: NES - Zelda 2 The Adventure of Link - Great Palace_70
+    21300142: NES - Zelda 2 The Adventure of Link - Great Palace_71
+    21300144: NES - Zelda 2 The Adventure of Link - Great Palace_72
+    21300146: NES - Zelda 2 The Adventure of Link - Great Palace_73
+    21300148: NES - Zelda 2 The Adventure of Link - Great Palace_74
+    21300150: NES - Zelda 2 The Adventure of Link - Great Palace_75
+    21300152: NES - Zelda 2 The Adventure of Link - Great Palace_76
+    21300154: NES - Zelda 2 The Adventure of Link - Great Palace_77
+    21300156: NES - Zelda 2 The Adventure of Link - Great Palace_78
+    21300158: NES - Zelda 2 The Adventure of Link - Great Palace_79
+    21300160: NES - Zelda 2 The Adventure of Link - Great Palace_80
+    21300162: NES - Zelda 2 The Adventure of Link - Great Palace_81
+    21300164: NES - Zelda 2 The Adventure of Link - Great Palace_82
+    21300166: NES - Zelda 2 The Adventure of Link - Great Palace_83
+    21300168: NES - Zelda 2 The Adventure of Link - Great Palace_84
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 191
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e617ed752167f1347935ffcaa493d98a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 191
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb160c01c76fcd4697d3361d4a36af0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 191
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6315c60df0addef468d15c3c8d004b32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_3
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 191
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a631ca1ab6e5644b034c2c2f7a465f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_4
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 191
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63fd7bfdf9d3c646bef92683f5c9f37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_5
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 191
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c9195d1c5a7114e96eb64d92db1227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_6
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 191
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1fcb412513df424698356f5a8ed0466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_7
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 191
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f47ef090fc4b44c8d34549157cc181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_8
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 191
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f31470b68d98d5a4bae8d5ffb8a24d47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_9
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 191
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8306d34e7b667c24ba702329760b516b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_10
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 191
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151cb8c0d7e53c744beae68b3e3e037b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_11
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 191
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07ddd5d81e017c44bff7014ef40c3a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_12
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 191
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a009b977c023b34381f53d307b32175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7114fde08e0f262489cdab1dd0d94f27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_14
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd55d48d8bef16945ad7aee91a0e7665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_15
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ca758b42e02a44ea1b05e68bb26e2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_16
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924f4a36b6e033740a2ec1cb1bdfaca2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_17
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd93e17d463470449a560845321f8aaa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_18
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 172
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44df6de011282c46bb5064d6948640d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_19
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 180
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0410644b4c3895044aa54f0f699d1ad1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 155
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfea571cb9b3dc408a4307abf60b6ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_21
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 155
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c6671665496ae4680c0c2e5ee63e37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_22
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 155
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89530a66b00cd0f41a40eea6a13b3892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_23
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 140
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c432e6c5eeec5848810e2c2ac6dc429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 129
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5aa63d7e0b7ea4a916234199d3a856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_25
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 129
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce00f3cf5758f64fadf9d79a99031b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_26
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 129
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae8735629c68ae42abf462753e25b50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_27
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 129
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6361440f7e785044780705c935c8b81d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_28
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 129
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1220ca20cf200cf40ab69cb162936f53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_29
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 129
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d5fd02b50b0214c82cb8e8322578f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_30
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 129
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b72bf3e8931fc743a1ca4a11f6088fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_31
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 129
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5ccb24159c0684386a65dfc1bc0a69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_32
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 129
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174ba0f5c75ab1040b907d562543ea8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_33
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 129
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9b2bfb9d326e748b9afdc547025075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_34
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 129
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf1b183b4d0af641aac1856f58def21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_35
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 129
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe50a2ace6186454db0124a83df44a37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 110
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53551740f05b2f4b88502a19744dcb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_37
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 110
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6ef0dc4517dd54fa2c3fd751a89492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_38
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 110
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8045c03ceab55c48963f8ea7b245ef2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_39
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 110
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77fdf8e9f6d17cc4cb026ae491610568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_40
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 110
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95f3666264815c49bf72d1a4c71a474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_41
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 94
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e683083c226047b4a946c3b17504036f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_42
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 94
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b627b0b1e5c624c892880c16b505a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_43
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 94
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b19eb488d9d364692b74330bfaf56b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_44
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 94
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6705f931ea49aa04b8ba38d766ac81b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_45
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 78
+        width: 8
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50880f4e49d73af45863766f9c92506a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_46
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 93
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0613bb29280e63042bf8e42befbc09aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_47
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 93
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d485cdcab4c855240a62290e2ef73226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_48
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 93
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9824e3f32ffbaea43a77442bf68bf48a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_49
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 93
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671ee1ac5303a7247b0af438f9c7753c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_50
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 93
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec4cd86d2e97af45923baacac4b2724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_51
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7be1e20eb7a804e8393184c6329154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_52
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91d8efce086cab498d0e13ca0c8bfbe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_53
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956454f1ba332fc4698bc59ec4f8dbc8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_54
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a550cf9f83995584599dd042f118593a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_55
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 76
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b83d7ce6d700844a38b0e9a4112a95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_56
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 66
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e20408fa45921e4896976ad341f2c6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_57
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 66
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762632c5881f0d149991e581bd8dbd5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_58
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 66
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2fb14f032475c4c9618554a7466b94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_59
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 66
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f0d0a3b89e4c54c918d19d843fce8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_60
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 66
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6957e67eb8d5a4c8c82693a6a4ac09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_61
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 66
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49e3f2f3de8076449ae9025ea5df43a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_62
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 66
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d404e684584244db1c643b0dd8d9d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_63
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 66
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2674dcecc8f8f246b0d85c8ec363977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_64
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 66
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fe5581c60c33b4884f7379e4298d83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_65
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 66
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe78557d6b5632648b90726fc2e92127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_66
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 66
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1f1664e5ce554409b57a9036de8168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_67
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 66
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60fc643bf03d0b4080e882d015c6dd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_68
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 66
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a03957eb410ea46bafc26ef8e993d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_69
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 66
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c56f647c37d54046a92a6310485754e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_70
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 66
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365d88229eafa084d88d269e352b1118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_71
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 66
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4009ac516b71240a424125ee96a961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_72
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 66
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e318c7e085edf94479f6e9d6d9adf691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_73
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 66
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77b9d4c0c0ccd8448c6ecb92ecb3b6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_74
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 47
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a0faabbd9890a488e5394879cba05a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_75
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 47
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5a3f5cb478b364ca7467411f9480a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_76
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 31
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef431716bef2f0498b3a7dbd3ffbd17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_77
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 11
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5413ec2374cab4492e4ccc1fd538e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_78
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 11
+        width: 39
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e88298418eb71645a9bf5c187e970df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_79
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 11
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d664e14854fa94bac81b1c717ec5b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_80
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 11
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4afe529c04961a43a807f599d469649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_81
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4d70116bf05be408b09c27a5e597ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_82
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 2
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45157057ca7a3b8498643a063473f804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_83
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03af574ebf335284ebfb2039cc1564c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Great Palace_84
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 2
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c6678635f610549a217281b513784b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: cc1ebf160f79b8a46a463254923bc582
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

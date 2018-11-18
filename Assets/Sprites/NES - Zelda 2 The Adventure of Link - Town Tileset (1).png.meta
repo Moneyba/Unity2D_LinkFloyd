@@ -1,0 +1,2641 @@
+fileFormatVersion: 2
+guid: eaf3bf2242081954bae8300b4fe85a55
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_1
+    21300002: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_2
+    21300004: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_3
+    21300006: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_4
+    21300008: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_5
+    21300010: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_6
+    21300012: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_7
+    21300014: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_8
+    21300016: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_9
+    21300018: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_10
+    21300020: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_11
+    21300022: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_12
+    21300024: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_13
+    21300026: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_14
+    21300028: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_15
+    21300030: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_16
+    21300032: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_17
+    21300034: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_18
+    21300036: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_19
+    21300038: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_20
+    21300040: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_21
+    21300042: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_22
+    21300044: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_23
+    21300046: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_24
+    21300048: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_25
+    21300050: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_26
+    21300052: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_27
+    21300054: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_28
+    21300056: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_29
+    21300058: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_30
+    21300060: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_31
+    21300062: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_32
+    21300064: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_33
+    21300066: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_34
+    21300068: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_35
+    21300070: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_36
+    21300072: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_37
+    21300074: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_38
+    21300076: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_39
+    21300078: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_40
+    21300080: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_41
+    21300082: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_42
+    21300084: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_43
+    21300086: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_44
+    21300088: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_45
+    21300090: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_46
+    21300092: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_47
+    21300094: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_48
+    21300096: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_49
+    21300098: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_50
+    21300100: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_51
+    21300102: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_52
+    21300104: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_53
+    21300106: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_54
+    21300108: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_55
+    21300110: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_56
+    21300112: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_57
+    21300114: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_58
+    21300116: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_59
+    21300118: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_60
+    21300120: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_61
+    21300122: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_62
+    21300124: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_63
+    21300126: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_64
+    21300128: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_65
+    21300130: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_66
+    21300132: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_67
+    21300134: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_68
+    21300136: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_69
+    21300138: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_70
+    21300140: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_71
+    21300142: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_72
+    21300144: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_73
+    21300146: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_74
+    21300148: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_75
+    21300150: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_76
+    21300152: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_77
+    21300154: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_78
+    21300156: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_79
+    21300158: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_80
+    21300160: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_81
+    21300162: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_82
+    21300164: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_83
+    21300166: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_84
+    21300168: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_85
+    21300170: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_86
+    21300172: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_87
+    21300174: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_88
+    21300176: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_89
+    21300178: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_90
+    21300180: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_91
+    21300182: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_92
+    21300184: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_93
+    21300186: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_94
+    21300188: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_95
+    21300190: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_96
+    21300192: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_97
+    21300194: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_98
+    21300196: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_99
+    21300198: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_100
+    21300200: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_101
+    21300202: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_102
+    21300204: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_103
+    21300206: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_104
+    21300208: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_105
+    21300210: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_106
+    21300212: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_107
+    21300214: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_108
+    21300216: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_109
+    21300218: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_110
+    21300220: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_111
+    21300222: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_112
+    21300224: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_113
+    21300226: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_114
+    21300228: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_115
+    21300230: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_116
+    21300232: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_117
+    21300234: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_118
+    21300236: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_0
+    21300238: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_119
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_1
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 204
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012646d6cdc87c848b6e2aacfae85907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_2
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 201
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6535e3ae81977304e851ad6dc3d4c655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_3
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 204
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a82b57258d332469cad553cba23917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_4
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 204
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f72deb0a054f154d8a98943620d2846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_5
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 204
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76df8f8ffc6957a4bada655d01f5551c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_6
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 204
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29592d8ca154fd243a914a2ec7d061ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_7
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 204
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f0fe14689c3414287662b8aeed4a5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_8
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 204
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0a44a020e9ca54fad73854bbaaeeb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_9
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 204
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b4d3261a622e84c9a54eb01e4a15c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_10
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 204
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0496ce20f7699e4e8f81a8a19574d89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_11
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 204
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a9d521a9f812847b9884d56b77f3c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_12
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 204
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad1058b7d9c0e44292c3d98a898e8cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_13
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 201
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887eecf7c62302445b87e172373f11d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_14
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 208
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99260b7f0e4aec743870c9dc082c0085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_15
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 198
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e691db24dd67a43abc59d9270dfa85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_16
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 198
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70a5d627b265f4439a5df4c2f5314f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_17
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 198
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f8771b93069f84da4e13f97e0dd9f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_18
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 198
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe08b642484d992409a9e7151bd7a5aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 195
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe20f3ecd494184b8fce7820c1fad94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_20
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 195
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc8794bee7acb841b36e0ce662a71bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_21
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 198
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d84bf2ddd29ea4da4ddfe9ce0de758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_22
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 198
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521ef279feb9942419257b450be77c2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_23
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 198
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d244026434e06408ade94162f14f57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_24
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 198
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e772c2d180655448ec4a3781f657dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_25
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 198
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05af6d2351165684bb559ffed8a2449f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_26
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 198
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39760cc5b2a930a4086912a4b7bdbde4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_27
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 198
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe1b0f10403e6442b86deb5255913cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_28
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 198
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d75d83de13168c4e8cbd709a2f941b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_29
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 198
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea11c1e809af3c4d91628ebb85c02aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_30
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 198
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f2dbddb6aab1f48a771d6a0adf61f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_31
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 182
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127345d395c0f74479c04aee870876ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_32
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 198
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6706aa51f58a4974ab6d64c60a03b560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_33
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 198
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b1117e004ffae42b0b18dae42ac1f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_34
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 198
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cd87a0a2af5214cb4366136db90f79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_35
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 198
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a0a449207a8424190aaec81da1e1b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_36
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 198
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c529491566245754b8567d2b062f8f87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_37
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 182
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67832bfef8b3a14ba348636f1be4779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_38
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 182
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d142650228a7dfa43ab2589ec0e09169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_39
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 179
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977315ea691a08842ad2508e9a19dc6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_40
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 182
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a1e239280710f4f94bb3ac7d78a937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_41
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 182
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fc79f7e7b7e9e49b31e17eff750869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_42
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 182
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aeb6c59b61767c4eaee141f2c9cb718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_43
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 182
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbf78815c0ebb34f962ffb74bc2323f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_44
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 182
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd46bbac1007a2441ae2d7748c788172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_45
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 182
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ba5f92c31c2de4681c2db54da8578b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_46
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 182
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701c5551af43260439ab0d25bb4f8d5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_47
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 182
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc737e3e08433c4ba258193c2a51786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_48
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 182
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf3d958261bf344ebf303fd8f6d5180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_49
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 182
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ace35dd6852ec4d8a07f645afb224c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_50
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 182
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a5e057d7491534ca7675233db96c8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_51
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 179
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519986f742f687447a304de6a39294b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_52
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 182
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b28e17a4fb711541a618481ec4cda7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_53
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 182
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee6cfb074b9dbc48a286e725a2470b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_54
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 182
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5d6c40e0093674fadc4b2e06a02bf7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_55
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 182
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f65b87ee5369ed4ab81c45bf2942c07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_56
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 182
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a821e5cb8e8c3945b35c464dfe6e256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_57
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 182
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab908ffdb90b8584d8b43d1ed14c9ed6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_58
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 182
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baea77fa51990e24295b0541b07de2f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_59
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 182
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f151402e032104d9036caf12891881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_60
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 182
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd4bad707fee6b4e84f3bb55cfc0cc7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_61
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 163
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893a32439dbfb1e4db768475da349938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_62
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 163
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302c92470f74f6f43bcdf655966a2f24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_63
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 163
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb38fdc054d4304198a0740cf159cd4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_64
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 163
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba76519b8278a0d44a128a68f627ebf8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_65
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 163
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31ae5f441c69a94c87093c32c615799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_66
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 163
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6beb321bdcddc43a6dbdc2bec8206b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_67
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 163
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3703b8c0f66d8444bc3cc10497b24d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_68
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 163
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19510c24e9a75542957099a51eb283e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_69
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 163
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0e573e4f4b82f4bb0f35bd5a7da4d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_70
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 163
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebffdae45b0fc54eb528f6235d69ab8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_71
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 163
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5bdc2d64127fb418a2f97a360ba9c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_72
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 161
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a40be65db1e5b459f6fc91ce3700dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_73
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 163
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297afb023d563044bb944a24a99c1cd1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_74
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 163
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9efad2eb96615254492bd2635301ec81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_75
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 163
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2d75308c156b7439ce283104fe9c40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_76
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 160
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f441e932d6e56948a72ddef45d9c7e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_77
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 163
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e6e214824e3f9438af9c7259222b2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_78
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 163
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79294179025be4d428e758d8064a1bc4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_79
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 157
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f2b5995960f3a4fb33ec8e8238cb18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_80
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 158
+        width: 96
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53863cbed7e8b7c4c80db9e3bc6afc6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_81
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 157
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5189c2dde6f8da245bff2273400e916b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_82
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 147
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bffea7ae72f2494a9d4dd61a965f860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_83
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 144
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ebb476f5d3c534db69b8d5ae8c195f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_84
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 144
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7a059fd42a76048ae2b23e0b030d42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_85
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 147
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7164cd81f4ddde741a5b4a6f624d3a2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_86
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 147
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c8801129c94ed429d23da9018e4fe8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_87
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 147
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b172736ac8ce99d47beb02cd36bab972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_88
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 147
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9faf600f0e7c5f94589682e69f00cdcc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_89
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 147
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75db86723b306b4d8864abdcbe45a87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_90
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 147
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d799a5f3e82029428a3c2cc34a287b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_91
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 147
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a3c5758dcc4944aaf2521fc272429b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_92
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 147
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f8787375929a947814f6598681c58a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_93
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 147
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569d5537dd3e68646881fb8d6a3f75a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_94
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 147
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57f35c5f1310f845b568ddead900c91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_95
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 147
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4dcaba78df3cb4db57495a085cf875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_96
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 147
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769be005254b79244aff7945a4d01f11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_97
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 147
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d532a02d4043d4dac9d54f8ce4886e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_98
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 147
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf720d304eed8a44879f42923071479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_99
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 144
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf5b6aaed9ac8747bd880575728c125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_100
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 147
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1641343c933ede54d89b77b8ba29729e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_101
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 147
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c59d71a83f17e64b86fd8f2b9cab45f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_102
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 147
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88adebec9989df64eb1904671364e378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_103
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 147
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ac3599d3e639b4b97f218cee880530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_104
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 147
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f6f17c6ef0bea49b7afbe2cd6c6f8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_105
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 92
+        width: 4
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf770cb48076d6459b09d49eb2a3841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_106
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 144
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338c4f92dcb82dd4c9b1956883c303e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_107
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 144
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3d1343ad7e082469e67af27106ddbd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_108
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 144
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8068467762138c64da717b713a140069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_109
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 92
+        width: 4
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5792de3f8af69974bb55073ea08f83c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_110
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 128
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503f633e9f7caf04a933bc9bd22b0f73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_111
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 112
+        width: 61
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d46727f4e64d614dbecce124413ea7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_112
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 96
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd13aa55d0a06849affa91c2bee8c2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_113
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 96
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c3d758157df1f48ba1f52140cb2ccf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_114
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 96
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e72660e04f8044aabdd480f5f23bd1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_115
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 85
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9532b3f16ff98504c977d2cb5fd5279f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_116
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 86
+        width: 96
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bca8a95e4e35d842a36554712f23138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_117
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 0
+        width: 88
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3e1ae71d5f76e4c9d4f37f14728e5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_118
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 173
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9941aba5fc852438c6561d83cda453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_0
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 227
+        width: 108
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea879e2fba035624cb07c5ab6c2bf409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Zelda 2 The Adventure of Link - Town Tileset (1)_119
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 225
+        width: 110
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c75dd1ad9804048a4801546947a3cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 470770967b75b2a42865d57a941246bc
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
