@@ -5,6 +5,14 @@ TagManager:
   serializedVersion: 2
   tags:
   - Borders
+  - Town
+  - Door1
+  - Zelda
+  - Sword
+  - Block
+  - Shield
+  - Enemy
+  - Temple
   layers:
   - Default
   - TransparentFX
@@ -16,7 +24,7 @@ TagManager:
   - 
   - Player
   - Ground
-  - 
+  - NPC
   - 
   - 
   - 

@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class GM : MonoBehaviour
 {
@@ -42,15 +43,17 @@ public class GM : MonoBehaviour
         if (rupees > 15)
         {
             youWon.SetActive(true);
-            Time.timeScale = .25f;
-            Invoke("Reset", resetDelay);
+            //Time.timeScale = .25f;
+            //Invoke("Reset", resetDelay);
+            SceneManager.LoadScene("Town");
         }
 
         if (lives < 1)
         {
             gameOver.SetActive(true);
-            Time.timeScale = .25f;
-            Invoke("Reset", resetDelay);
+            //Time.timeScale = .25f;
+            //Invoke("Reset", resetDelay);
+            SceneManager.LoadScene("Town");
         }
 
     }

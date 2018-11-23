@@ -1,7 +1,75 @@
 fileFormatVersion: 2
 guid: c9e756a4acab83546889dd182e91ce02
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: machango2_0
+    21300002: machango2_1
+    21300004: machango2_2
+    21300006: machango2_3
+    21300008: machango2_4
+    21300010: machango2_5
+    21300012: machango2_6
+    21300014: machango2_7
+    21300016: machango2_8
+    21300018: machango2_9
+    21300020: machango2_10
+    21300022: machango2_11
+    21300024: machango2_12
+    21300026: machango2_13
+    21300028: machango2_14
+    21300030: machango2_15
+    21300032: machango2_16
+    21300034: machango2_17
+    21300036: machango2_18
+    21300038: machango2_19
+    21300040: machango2_20
+    21300042: machango2_21
+    21300044: machango2_22
+    21300046: machango2_23
+    21300048: machango2_24
+    21300050: machango2_25
+    21300052: machango2_26
+    21300054: machango2_27
+    21300056: machango2_28
+    21300058: machango2_29
+    21300060: machango2_30
+    21300062: machango2_31
+    21300064: machango2_32
+    21300066: machango2_33
+    21300068: machango2_34
+    21300070: machango2_35
+    21300072: machango2_36
+    21300074: machango2_37
+    21300076: machango2_38
+    21300078: machango2_39
+    21300080: machango2_40
+    21300082: machango2_41
+    21300084: machango2_42
+    21300086: machango2_43
+    21300088: machango2_44
+    21300090: machango2_45
+    21300092: machango2_46
+    21300094: machango2_47
+    21300096: machango2_48
+    21300098: machango2_49
+    21300100: machango2_50
+    21300102: machango2_51
+    21300104: machango2_52
+    21300106: machango2_53
+    21300108: machango2_54
+    21300110: machango2_55
+    21300112: machango2_56
+    21300114: machango2_57
+    21300116: machango2_58
+    21300118: machango2_59
+    21300120: machango2_60
+    21300122: machango2_61
+    21300124: machango2_62
+    21300126: machango2_63
+    21300128: machango2_64
+    21300130: machango2_65
+    21300132: machango2_66
+    21300134: machango2_67
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -31,7 +99,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -40,12 +108,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -69,9 +137,1402 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: machango2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528.94116
+        width: 49.25
+        height: 33.058823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1657611f4f16a85498619db7a04b8e0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 528.94116
+        width: 49.25
+        height: 33.058823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135d252e7d0e2824f9bf825c44d9440c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_2
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 529
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678d67f37a98c404f90f7e8190f854b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_3
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 529
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d35259babf9d224a8d77463e29c83fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 495.94116
+        width: 49.25
+        height: 33.058823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b40805d2dd135b49a722448b1e86b4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_5
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 495.94116
+        width: 49.25
+        height: 33.058823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02eb558c31ce6be4f80f892387254f41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_6
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 496
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc24883fed634840bf2c5826d64d668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_7
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 495.94116
+        width: 49.25
+        height: 33.058823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646f3d2a5fc04f641a7b4dd440bdad0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 462.94116
+        width: 49.25
+        height: 33.058823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695a846883b407641ad9a83d00e6c5a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_9
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 462.94116
+        width: 49.25
+        height: 33.058823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf127f1747eb27d4a86d117cc96a84cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_10
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 463
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cebc8054d91e234fb3a2fea5ec91c21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_11
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 462.94116
+        width: 49.25
+        height: 33.058823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2478523ee35b05b4295025ea387d2354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 429.94116
+        width: 49.25
+        height: 33.058823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088275614bcb76f40aac51fc2eab5f21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_13
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 429.94116
+        width: 49.25
+        height: 33.058823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d65a22f72e38ae47a5dfe4128757356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_14
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 430
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3a4c0d7bb5bb149bf621ebd80d1720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_15
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 429.94116
+        width: 49.25
+        height: 33.058823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f19bc49b972e24f90f836ed6851334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396.94116
+        width: 49.25
+        height: 33.058823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6465865a94c5a124495dfe4cea82f8fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_17
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 396.94116
+        width: 49.25
+        height: 33.058823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6f3cb0ed313f34f9b7d0b86e5c53c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_18
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 397
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fa6ccf899ccde41ac57d70c79bbd0c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_19
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 396.94116
+        width: 49.25
+        height: 33.058823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f645881f3c2bb31489d2e3a2dc5a357d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 363.94116
+        width: 49.25
+        height: 33.058823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcaf2a1f522fb04f8582c244d553430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_21
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 363.94116
+        width: 49.25
+        height: 33.058823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909780c9d1e386b46b9a2a41551831a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_22
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 364
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59d7ea62497ff0468464f7c6ba4151c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_23
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 363.94116
+        width: 49.25
+        height: 33.058823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919be49c34a8ae44f9bc951c3ad14856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 330.94116
+        width: 49.25
+        height: 33.058823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1d0e4567da3f2448e93370598ccbe5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_25
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 330.94116
+        width: 49.25
+        height: 33.058823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7822a9466c3c6e4eae372fd6602e2bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_26
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 331
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf28b97291844e343b55dd55755ebc2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_27
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 330.94116
+        width: 49.25
+        height: 33.058823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1cd93dc17995749ba45349c67f319f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 297.94116
+        width: 49.25
+        height: 33.058823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e630a58913c872349849ceb13dd36769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_29
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 297.94116
+        width: 49.25
+        height: 33.058823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9bea8495360a864a8c1b16510d897d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_30
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 297.94116
+        width: 49.25
+        height: 33.058823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e610f44a5fcf9c447a204c2047a41f85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_31
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 297.94116
+        width: 49.25
+        height: 33.058823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef248bbe573c4842822a6541a6937eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264.94116
+        width: 49.25
+        height: 33.058823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb45b2cdda74602488cdc61b59e0a0b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_33
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 264.94116
+        width: 49.25
+        height: 33.058823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bdbfc5a37cb5b45a0400ec0f916e65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_34
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 264.94116
+        width: 49.25
+        height: 33.058823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea9e5cfc25e5a647a988c0d6f738d76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_35
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 264.94116
+        width: 49.25
+        height: 33.058823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827317506d90e8c4d9ede6f8faeba0bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 231.94118
+        width: 49.25
+        height: 33.058823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6e530e733142e4898b4c437f15ba22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_37
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 231.94118
+        width: 49.25
+        height: 33.058823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6baa0afb5d1935d4d97fdb5d484c737c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_38
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 231.94118
+        width: 49.25
+        height: 33.058823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3edbc9f8b52fe214aab725a6fd237610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_39
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 231.94118
+        width: 49.25
+        height: 33.058823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981d023271dec544d84bbc0436886e3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 198.94118
+        width: 49.25
+        height: 33.058823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2679c245289da4fbbdc840ea1872cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_41
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 198.94118
+        width: 49.25
+        height: 33.058823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea40b9bfd08af434ea6ba42e451c6339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_42
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 198.94118
+        width: 49.25
+        height: 33.058823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33bcab803da67d04099f3f25ade6e2e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_43
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 198.94118
+        width: 49.25
+        height: 33.058823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739c9113280841a43ab8f985d9e0a55e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 165.94118
+        width: 49.25
+        height: 33.058823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74589aa8609b77043a32115f4a80ce36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_45
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 165.94118
+        width: 49.25
+        height: 33.058823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a0e351c2c0cce4ba7ecb51c7907ead
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_46
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 165.94118
+        width: 49.25
+        height: 33.058823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa595af03cacd64bb914e45d44f3912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_47
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 165.94118
+        width: 49.25
+        height: 33.058823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f5d86c6fba3594593f0ff2c0f9eba9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132.94118
+        width: 49.25
+        height: 33.058823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d1d633603e0014d85b6d1f823e88bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_49
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 132.94118
+        width: 49.25
+        height: 33.058823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d38ee2abbcf82245a1c02b7b3645932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_50
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 132.94118
+        width: 49.25
+        height: 33.058823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f084c87bae9344b8119bd7a7c31db4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_51
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 132.94118
+        width: 49.25
+        height: 33.058823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1419895ce6ae8c4da52672e57b57426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99.94118
+        width: 49.25
+        height: 33.058823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76fa549d7b3cd4c40b3c4cfa78722b66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_53
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 99.94118
+        width: 49.25
+        height: 33.058823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd111c160117c5e4f88b25023898f812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_54
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 99.94118
+        width: 49.25
+        height: 33.058823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080a5c58712b84140a4372967dd7fb1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_55
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 99.94118
+        width: 49.25
+        height: 33.058823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9477b64c7ba012c4896965ec2a238a9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66.94118
+        width: 49.25
+        height: 33.058823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113a9fecdfb403546aabbf1d01ace515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_57
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 66.94118
+        width: 49.25
+        height: 33.058823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1842672ce06d99441a603398ad7b4684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_58
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 66.94118
+        width: 49.25
+        height: 33.058823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5640514bff51b54494a9a1418f2bced
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_59
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 66.94118
+        width: 49.25
+        height: 33.058823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00a06654d9e19f4693fd466cb3bd3af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33.941177
+        width: 49.25
+        height: 33.058823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf948b362135624baf9d506bcbf3c12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_61
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 33.941177
+        width: 49.25
+        height: 33.058823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8258435743516744adbec6f79607f72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_62
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 33.941177
+        width: 49.25
+        height: 33.058823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a040079046108024484431e88240593b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_63
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 33.941177
+        width: 49.25
+        height: 33.058823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c513e8056cf154fae16fcaf0449828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.94117737
+        width: 49.25
+        height: 33.058823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1234295ee10a04a8a0c3284fb0836b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_65
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0.94117737
+        width: 49.25
+        height: 33.058823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7a1373bd15c244fbfd59f95abfc435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_66
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0.94117737
+        width: 49.25
+        height: 33.058823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac873dbd6dd3bcd48933ea93a53be8e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: machango2_67
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0.94117737
+        width: 49.25
+        height: 33.058823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6706f5382b2d96246a0287d981e12f39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
