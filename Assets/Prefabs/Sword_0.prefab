@@ -20,12 +20,12 @@ GameObject:
   m_Component:
   - component: {fileID: 4342903175973110}
   - component: {fileID: 212073009601573714}
-  - component: {fileID: 114921278256664302}
-  - component: {fileID: 50965741046918950}
   - component: {fileID: 61834265710260754}
+  - component: {fileID: 50965741046918950}
+  - component: {fileID: 114495232158376970}
   m_Layer: 0
   m_Name: Sword_0
-  m_TagString: Untagged
+  m_TagString: Sword
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -37,8 +37,8 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1054946901121580}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -7.11, y: -0.43, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: -3.36, y: 0.19, z: 0}
+  m_LocalScale: {x: 0.6713437, y: 0.75156254, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -62,7 +62,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!61 &61834265710260754
 BoxCollider2D:
   m_ObjectHideFlags: 1
@@ -72,7 +72,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -88,7 +88,7 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.875, y: 0.25}
   m_EdgeRadius: 0
---- !u!114 &114921278256664302
+--- !u!114 &114495232158376970
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
@@ -96,11 +96,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 1054946901121580}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bfa0572c0ee1c074fa6c6b85fe63f409, type: 3}
+  m_Script: {fileID: 11500000, guid: b3396367801cc4141b74be1a4e1b5745, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 100
-  lifetime: 1
 --- !u!212 &212073009601573714
 SpriteRenderer:
   m_ObjectHideFlags: 1
@@ -133,13 +131,13 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -1253966063
+  m_SortingLayer: 3
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: c62eba2c9b6c7954cbf43e3eb05ff007, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 1
-  m_FlipY: 1
+  m_FlipY: 0
   m_DrawMode: 0
   m_Size: {x: 0.875, y: 0.25}
   m_AdaptiveModeThreshold: 0.5

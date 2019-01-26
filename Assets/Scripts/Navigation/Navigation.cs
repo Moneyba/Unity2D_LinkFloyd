@@ -6,12 +6,18 @@ using UnityEngine.SceneManagement;
 public class Navigation : MonoBehaviour
 {
     private bool door1 = false;
+    private bool door3 = false;
     // Update is called once per frame
     void Update()
     {
-        if (door1 == true  && Input.GetButtonDown("Fire1"))
+        if (door1 == true && Input.GetButtonDown("Fire1"))
         {
-            SceneManager.LoadScene("Tenis");
+            SceneManager.LoadScene("House1");
+        }
+        
+        if (door3 == true  && Input.GetButtonDown("Fire1"))
+        {
+            SceneManager.LoadScene("House3");
         }
     }
 
@@ -37,23 +43,24 @@ public class Navigation : MonoBehaviour
 
         if (collision.gameObject.CompareTag("Temple"))
         {
-            SceneManager.LoadScene("Temple");
+            SceneManager.LoadScene("GreatPalace");
         }
 
+        if (collision.gameObject.CompareTag("HouseExit"))
+        {
+            SceneManager.LoadScene("Town");
+        }
+
+        if (collision.gameObject.name == "TennisDoor")
+        {
+            SceneManager.LoadScene("Tenis");
+        }
 
 
 
     }
     
-    public void manageCollisions(Collider2D collision)
-    {
-        if (collision.gameObject.CompareTag("Player"))
-        {
-           // SceneManager.LoadScene("Tenis");
-        }
-          
-
-    }
+   
 
     /*public void manageCollisions(ControllerColliderHit hit)
     {
@@ -77,10 +84,20 @@ public class Navigation : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-
-        if (collision.gameObject.CompareTag("Door1"))
+        if (collision.gameObject.name == "Door1")
         {
-            door1 = true;     
+
+            door1 = true;
+            door3 = false;
+
+        }
+
+
+        if (collision.gameObject.name == "Door3")
+        {
+           
+            door3 = true;
+            door1 = false;
 
         }
 

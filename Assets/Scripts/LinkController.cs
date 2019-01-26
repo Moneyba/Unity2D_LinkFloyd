@@ -10,12 +10,15 @@ public class LinkController : MonoBehaviour
     [HideInInspector] public bool jump = false;
 
     public int health = 5;
+    public int live = 3;
 
     //movement
     public float maxSpeed = 3f;
     public float moveForce = 50f;
     public float jumpForce = 300f;
-    float move = 0f;
+    public float move = 0f;
+    private bool movement;
+
     float attackOnce = 0f;
     float attackTime = 0.2f;
     public static int flip = -1;
@@ -26,17 +29,21 @@ public class LinkController : MonoBehaviour
     private Rigidbody2D rb2d;
 
 
-    private bool grounded = true;
-    bool attack = false;
+    public bool grounded = true;
+    public bool attack = false;
     bool dam = false;
+    public bool crouch = false;
 
     bool shield = false;
 
-    Animator anim;
+    public Animator anim;
 
     //Weapons
     public GameObject Sword;
+    public GameObject Shield;
     private BoxCollider2D swordBox;
+    private BoxCollider2D shieldBox;
+    public GameObject blade;
 
 
     //shooting
@@ -61,6 +68,7 @@ public class LinkController : MonoBehaviour
         rb2d = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
         swordBox = Sword.GetComponent<BoxCollider2D>();
+        shieldBox = Shield.GetComponent<BoxCollider2D>();
 
     }
 
@@ -76,58 +84,69 @@ public class LinkController : MonoBehaviour
         resplandor = GetComponentInChildren<Light>();
     }
 
-    void Update()
+    private void Update()
     {
-        grounded = Physics2D.Linecast(transform.position, groundCheck.position, 1 << LayerMask.NameToLayer("Ground"));
-        print("ground: " + grounded);
-        print("jump" + jump);
-
-
-
-
-        if (Input.GetButtonDown("Jump") && grounded)
+        if (Input.GetButtonDown("Fire1"))
         {
-
-            jump = true;
-
+            attack = true;
+            attackOnce = Time.time;
         }
 
-        /* if (backTimer > 0)
-         {
-             backTimer -= Time.deltaTime;
-         }*/
-
     }
-    /*void ProcessInput()
-    {
-        rb2d.velocity = new Vector3(0, rb2d.velocity.y, 0);
-    }*/
-
     // Update is called once per frame
     void FixedUpdate()
-    {
+    {    
+        /*This checks if link is close to the ground to activate the crouch animation when Link lands.
+		 It does a linecast which acts like a collider set as a trigger in a way.*/
+        grounded = Physics2D.Linecast(transform.position, groundCheck.position, 1 << LayerMask.NameToLayer("Ground"));
 
 
+        /*These are the variables the Animator accesses.*/
         anim.SetBool("ground", grounded);
         anim.SetFloat("speed", Mathf.Abs(move));
         anim.SetBool("attack", attack);
         anim.SetBool("dam", dam);
-
+        anim.SetBool("crouch", crouch);
         //anim.SetBool("jumping", jump);
 
+        if (movement == true)
+        {
+            move = Input.GetAxis("Horizontal");
+            rb2d.velocity = new Vector2(move * maxSpeed, rb2d.velocity.y);
+        }
+        else
+        {
+            rb2d.velocity = new Vector2(0, rb2d.velocity.y);
+            move = 0;
+        }       
 
-        move = Input.GetAxis("Horizontal");
-        rb2d.velocity = new Vector2(move * maxSpeed, rb2d.velocity.y);
 
-        if (jump)
+        if (Input.GetButtonDown("Jump") && grounded)
         {
             //anim.SetTrigger("jumping");
             //anim.SetBool("ground", false);
             rb2d.AddForce(new Vector2(0f, jumpForce));
-            jump = false;
+            jump = true;
 
         }
+        else
+        {
+            jump = false;
+        }
 
+        if (Input.GetKey("down"))
+        {
+            anim.SetTrigger("crouch");
+            ShieldBoxAttack();
+            crouch = true;
+            movement = false;            
+        }
+        else
+        {
+           ShieldBoxRetract();
+            crouch = false;
+            movement = true;           
+        }
 
 
         if (move > 0 && !facingRight)
@@ -135,26 +154,73 @@ public class LinkController : MonoBehaviour
         else if (move < 0 && facingRight)
             Flip();
 
-        if (Input.GetButtonDown("Fire1"))
-        //if (Input.GetKey(KeyCode.F))
-        {
-            SwordBoxAttack();
-            attack = true;
-            attackOnce = Time.time;
+        /* if (Input.GetButtonDown("Fire1"))
+         //if (Input.GetKey(KeyCode.F))
+         {
+             SwordBoxAttack();
+             attack = true;
+             attackOnce = Time.time;
+             //Shoot();
+             print("attackOnce " + attackOnce);
+             print(Time.time);
+             GameObject t = (GameObject)Instantiate(blade, transform.position, Quaternion.identity);
 
-            Shoot();
+            /* GameObject t = Instantiate(blade);
+             t.transform.position = transform.position + transform.forward;
+             t.transform.forward = transform.forward;/
+             t.GetComponent<Rigidbody2D>().AddForce(transform.forward * 10);
+             Destroy(t, 3);
+
+         }   
+
+
+
+         if ((Time.time - attackOnce) >= attackTime)
+         {
+             attack = false;
+             SwordBoxRetract();
+             //DisableShoot();
+
+         }*/
+
+        if (Input.GetButtonDown("Fire1"))
+        {        
+            SwordBoxAttack();
+                attack = true;
+                attackOnce = Time.time;
+
+            if (health == 5)
+            {
+                StartCoroutine(Wait());
+            }
+           
         }
 
         if ((Time.time - attackOnce) >= attackTime)
         {
             attack = false;
             SwordBoxRetract();
-            DisableShoot();
-        }
+            //DisableShoot();
 
-        if (Input.GetKey(KeyCode.D))
+
+        }
+        
+            if (Input.GetKey(KeyCode.D))
         {
             shield = true;
+        }
+
+        if (health <= 0)
+        {
+            live--;
+            UnityEngine.SceneManagement.SceneManager.LoadScene(UnityEngine.SceneManagement.SceneManager.GetActiveScene().buildIndex);
+            // Destroy(gameObject);
+
+        }
+
+        if (live <= 0)
+        {
+            SceneManager.LoadScene("ZeldaRoom");
         }
     }
 
@@ -179,9 +245,21 @@ public class LinkController : MonoBehaviour
         swordBox.size = new Vector2(0.4f, 0.4f);
     }
 
-    private void OnTriggerEnter2D(Collider2D collision)
+    public void ShieldBoxAttack()
     {
-        if (collision.GetComponent<EnemyBullet>() != null)
+        shieldBox.offset = new Vector2(0.55f, -0.8f);
+        shieldBox.size = new Vector2(0.8f, 3.2f);
+    }
+
+    public void ShieldBoxRetract()
+    {
+        shieldBox.offset = new Vector2(0f, 0f);
+        shieldBox.size = new Vector2(0.7f, 1.6f);
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision )
+    {
+        if (collision.GetComponent<EnemyBullet>() != null && crouch == false)
         {
             Hit((transform.position - collision.transform.position).normalized);
         }
@@ -189,13 +267,26 @@ public class LinkController : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.GetComponent<Enemy>())
+        if (collision.gameObject.GetComponent<Enemy>() != null && crouch == false)
         {
             Hit((transform.position - collision.transform.position).normalized);
         }
+
+        if (collision.gameObject.tag == "Enemy")
+        {
+            Hit((transform.position - collision.transform.position).normalized);
+
+        }
+
+        if (collision.gameObject.name == "lava")
+        {
+            health = 0;
+        }
     }
 
-    private void Hit(Vector2 direction)
+    
+
+    public void Hit(Vector3 direction)
     {
         anim.SetBool("dam", true);
         Vector2 backDirection = (direction).normalized;
@@ -205,26 +296,21 @@ public class LinkController : MonoBehaviour
         // backTimer = 1f;
 
 
-        health--;
-        if (health <= 0)
-        {
-            SceneManager.LoadScene("ZeldaRoom");
-           // Destroy(gameObject);
-            
-        }
+        health--;      
+
 
     }
 
     void Shoot()
     {
 
-        laser.SetPosition(0, transform.position);
+        laser.SetPosition(0, transform.position + new Vector3(1.3f,0.2f,0f));
 
         // Perform the raycast against gameobjects on the shootable layer and if it hits something...
         RaycastHit2D hit = Physics2D.Raycast(transform.position, Vector2.right, range, shootableMask);
          if (hit.collider != null)
          {
-            laser.SetPosition(1, hit.point);
+           
              laser.SetPosition(1, hit.point);
              Destroy(hit.collider.gameObject);
          }
@@ -235,7 +321,7 @@ public class LinkController : MonoBehaviour
 
         laser.enabled = true;
 
-        resplandor.enabled = true;
+        //resplandor.enabled = true;
         //laserSound.Play();
         timer = 0f;
 
@@ -246,6 +332,30 @@ public class LinkController : MonoBehaviour
     {
         timer = 0f;
         laser.enabled = false;
-        resplandor.enabled = false;
+        //resplandor.enabled = false;
+    }
+
+    IEnumerator Wait()
+    {
+       
+        yield return new WaitForSeconds(0.15f);
+        
+        GameObject b;
+     
+        if (facingRight)
+        {
+            blade.GetComponent<SpriteRenderer>().flipX = true;
+            b = Instantiate(blade, transform.position + new Vector3(1.3f, 0.3f, 0f), Quaternion.identity);
+            b.GetComponent<Rigidbody2D>().AddForce(new Vector3(1f, 0f, 0f) * 500);
+            Destroy(b, 3);
+            
+        }
+        else
+        {
+            blade.GetComponent<SpriteRenderer>().flipX = false;
+            b = Instantiate(blade, transform.position - new Vector3(1.3f, -0.3f, 0f), Quaternion.identity);
+            b.GetComponent<Rigidbody2D>().AddForce(new Vector3(-1f, 0f, 0f) * 500);
+            Destroy(b, 3);
+        }
     }
 }    

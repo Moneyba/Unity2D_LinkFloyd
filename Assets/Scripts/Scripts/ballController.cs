@@ -5,15 +5,16 @@ using UnityEngine;
 public class ballController : MonoBehaviour {
 
     private Rigidbody2D rb2D;
-    public float vel = 600f;
+    public float vel = 3000f;
     private bool ballInPlay;
+    private AudioSource audioSource;
 
-	// Use this for initialization
-	void Start () {
+    // Use this for initialization
+    void Start () {
         rb2D = GetComponent<Rigidbody2D>();
+        audioSource = GetComponent<AudioSource>();
 
-        
-	}
+    }
 	
 	// Update is called once per frame
 	void Update () {
@@ -26,4 +27,12 @@ public class ballController : MonoBehaviour {
         }
 		
 	}
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if(collision.gameObject.tag == "Rupee")
+        {
+            audioSource.Play();
+        }
+    }
 }

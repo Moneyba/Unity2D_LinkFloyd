@@ -8,7 +8,7 @@ public class paddleController : MonoBehaviour {
 
   
 
-    private float paddleSpeed = 0.2f;
+    private float paddleSpeed = 1f;
     private string axisControl;
 
     // Use this for initialization
@@ -22,7 +22,7 @@ public class paddleController : MonoBehaviour {
         axisControl = "Horizontal";
         
         float xPos = transform.position.x + (Input.GetAxisRaw(axisControl) * paddleSpeed);
-        transform.position = new Vector3(Mathf.Clamp(xPos, -5f, 5f), -5f, 0f);
+        transform.position = new Vector3(Mathf.Clamp(xPos, -30.5f, 30.5f), -25f, 0f);
 
     }
 }

@@ -2,14 +2,19 @@
 using System.Collections;
 
 public class Rupees : MonoBehaviour
-{
-    public AudioClip coin;
+{  
 
     public GameObject rupeeParticle;
+    private AudioSource audioSource;
 
-    void OnTriggerEnter2D(Collider2D other)
+    void Start()
     {
-        GetComponent<AudioSource>().Play();
+       
+        audioSource = GetComponent<AudioSource>();
+    }
+
+        void OnTriggerEnter2D(Collider2D other)
+    {       
         Instantiate(rupeeParticle, transform.position, Quaternion.identity);
         GM.instance.DestroyRupee();        
         Destroy(gameObject);

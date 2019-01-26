@@ -1,45 +1,94 @@
 ﻿ using UnityEngine;
  using System.Collections;
- public class DarkLinkController : MonoBehaviour
+ public class DarkLinkController : Enemy
 {
-    public GameObject mirrorObject; // Object to mirror
-
+     
     [HideInInspector] public bool facingRight = true;
     private Rigidbody2D rb2d;
-    Animator anim;
+    private Animator animation;
+    float move = 0;
+    public float maxSpeed = 5;
 
-    float move = 0f;
-    public float maxSpeed = 3f;
+    public LinkControllerScript link;
+    
+    public static int flip = -1;
+    
+    private bool dam = false;
 
-    float vertical;
-    float horizonal;
-    Vector3 position;
+    public GameObject DarkLink;
+    public GameObject Shield;
+    public GameObject Sword;
+
+    private BoxCollider2D linkBox;
+    private BoxCollider2D shieldBox;
+    private BoxCollider2D swordBox;
 
     void Awake()
     {
 
-       // rb2d = GetComponent<Rigidbody2D>();
-        anim = GetComponent<Animator>();
+        rb2d = GetComponent<Rigidbody2D>();
+        animation = GetComponent<Animator>();
 
-    }
+        linkBox = DarkLink.GetComponent<BoxCollider2D>();
+        shieldBox = Shield.GetComponent<BoxCollider2D>();
+        swordBox = Sword.GetComponent<BoxCollider2D>();
 
-   
+    }   
+    
+
     void FixedUpdate()
     {
-        print(transform.position);
-        //move = -Input.GetAxis("Horizontal");
-        //rb2d.velocity = new Vector2(move * maxSpeed, rb2d.velocity.y);
-        vertical = mirrorObject.transform.position.y;
-        horizonal = -mirrorObject.transform.position.x;
+        animation.SetBool("Attack", link.attack);
+        animation.SetBool("Ground", link.grounded);
+        animation.SetFloat("Speed", Mathf.Abs(move));
+        animation.SetBool("Dam", dam);
+        animation.SetBool("Crouch", link.crouch);
+        animation.SetFloat("vSpeed", link.GetComponent<Rigidbody2D>().velocity.y);
 
-        //transform.position = new Vector3(horizonal, vertical, 0);
-        position = new Vector3(horizonal, vertical, 0);
-        //transform.Translate(position);
+        move = -link.move;
+        rb2d.velocity = new Vector2(move * maxSpeed, link.GetComponent<Rigidbody2D>().velocity.y);
+
+        //transform.position = new Vector2(transform.position.x, link.transform.position.y);
+        if (link.jump)
+        {
+            rb2d.AddForce(new Vector2(0f, link.jumpForce));           
+            
+        }        
+        
        
+        if (move < 0 && facingRight)
+            Flip();
+        else if (move > 0 && !facingRight)
+            Flip();
 
-        /* transform.position += new Vector3(-mirrorObject.transform.position.x, mirrorObject.transform.position.y, 0);
-        ;*/
+        
+        shieldBox.offset = link.shieldBox.offset;
+        linkBox.size = link.linkBox.size;
+        linkBox.offset = link.linkBox.offset;
+
+
     }
 
-   
+    void Flip()
+    {
+        facingRight = !facingRight;
+        Vector3 theScale = transform.localScale;
+        theScale.x *= -1;
+        transform.localScale = theScale;
+        flip *= -1;
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+
+        if (collision.gameObject.tag == "Sword")
+        {
+            
+            animation.SetBool("Dam", true);
+            animation.SetBool("Attack", false);
+            base.Hit((transform.position - collision.transform.position).normalized);
+           
+        }
+
+    }
 }

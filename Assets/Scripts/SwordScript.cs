@@ -24,7 +24,7 @@ public class SwordScript : MonoBehaviour {
 			//Destroy(col.gameObject);
 			flip = LinkController.flip;
 			Link.GetComponent<Rigidbody2D>().AddForce(new Vector2(200f*flip, 0f));
-		}//if
+		}
 		
-	}//OnCollisionEnter
+	}
 }

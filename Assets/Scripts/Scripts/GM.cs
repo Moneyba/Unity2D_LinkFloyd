@@ -7,16 +7,16 @@ public class GM : MonoBehaviour
 {
 
     public int lives = 3;
-    private int rupees = 0;
+    public int rupees = 0;
     public float resetDelay = 1f;
-    public Text livesText;
-    public Text rupeesText;
+    public Text livesText;    
     public GameObject gameOver;
     public GameObject youWon;
     public GameObject rupee;
     public GameObject paddle;
     public GameObject deathParticles;
     public static GM instance = null;
+   
 
     private GameObject clonePaddle;
 
@@ -26,34 +26,43 @@ public class GM : MonoBehaviour
         if (instance == null)
             instance = this;
         else if (instance != this)
-            Destroy(gameObject);
+            Destroy(gameObject);     
 
-        Setup();
+        Setup();       
+       
+    }
 
+    private void Update()
+    {
+        print(StaticValue.tenisWin);
     }
 
     public void Setup()
     {
         clonePaddle = Instantiate(paddle, transform.position, Quaternion.identity) as GameObject;
-        Instantiate(rupee, new Vector3(-3,-1,0), Quaternion.identity);
+        Instantiate(rupee, new Vector3(-20,15,0), Quaternion.identity);
     }
 
     void CheckGameOver()
     {
         if (rupees > 15)
         {
+            StaticValue.tenisWin = true;
+            
             youWon.SetActive(true);
             //Time.timeScale = .25f;
             //Invoke("Reset", resetDelay);
-            SceneManager.LoadScene("Town");
+            SceneManager.LoadScene("House3");
         }
 
         if (lives < 1)
         {
+            StaticValue.tenisWin = true;
+            
             gameOver.SetActive(true);
             //Time.timeScale = .25f;
             //Invoke("Reset", resetDelay);
-            SceneManager.LoadScene("Town");
+            SceneManager.LoadScene("House3");
         }
 
     }
@@ -70,7 +79,7 @@ public class GM : MonoBehaviour
     public void LoseLife()
     {
         lives--;
-        livesText.text = "Lives: " + lives;
+        livesText.text = "L:" + lives;
         Instantiate(deathParticles, clonePaddle.transform.position, Quaternion.identity);
         Destroy(clonePaddle);
         Invoke("SetupPaddle", resetDelay);
@@ -84,8 +93,9 @@ public class GM : MonoBehaviour
 
     public void DestroyRupee()
     {
-        rupees++;
-        rupeesText.text = ""+rupees;
+        rupees++;        
         CheckGameOver();       
     }
+
+    
 }

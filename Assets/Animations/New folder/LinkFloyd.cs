@@ -29,11 +29,12 @@ public class LinkFloyd : MonoBehaviour {
 	void Update () {
         horizontal = Input.GetAxis("Horizontal");
         vertical = Input.GetAxis("Vertical");
-        movement = new Vector2(horizontal, vertical);
-        rb2d.velocity = movement * speed;
+        //movement = new Vector2(horizontal, vertical);
+        //rb2d.velocity = movement * speed;
 
         if (vertical != 0)
         {
+            rb2d.velocity = new Vector2(0, vertical) * speed;
             anim.SetBool("xMove", false);
             sprite.flipX = false;
 
@@ -45,9 +46,11 @@ public class LinkFloyd : MonoBehaviour {
             {
                 anim.SetInteger("yMove", -1);
             }
+            
         }
         else
         {
+            rb2d.velocity = new Vector2(horizontal, 0) * speed;
             anim.SetInteger("yMove", 0);
             if (horizontal > 0)
             {

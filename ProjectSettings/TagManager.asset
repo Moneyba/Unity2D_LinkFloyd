@@ -13,6 +13,12 @@ TagManager:
   - Shield
   - Enemy
   - Temple
+  - HouseExit
+  - Triforce
+  - Canvas
+  - Rupee
+  - GM
+  - DontDestroy
   layers:
   - Default
   - TransparentFX
