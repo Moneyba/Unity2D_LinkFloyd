@@ -1,6 +1,6 @@
 ﻿ using UnityEngine;
  using System.Collections;
- public class DarkLinkController : Enemy
+ public class DarkLinkController : EnemiesStats
 {
      
     [HideInInspector] public bool facingRight = true;
@@ -9,7 +9,8 @@
     float move = 0;
     public float maxSpeed = 5;
 
-    public LinkControllerScript link;
+    public LinkController link;
+    public GameObject triforce;
     
     public static int flip = -1;
     
@@ -90,5 +91,15 @@
            
         }
 
+    }
+
+    public override void Die()
+    {
+        AudioManager.instance.PlaySound("DarkLink", transform.position);
+
+        triforce.SetActive(true);
+
+        base.Die();
+       
     }
 }

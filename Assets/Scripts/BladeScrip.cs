@@ -2,23 +2,13 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class BladeScrip : MonoBehaviour
-{
+public class BladeScrip : MonoBehaviour{
 
-    // Use this for initialization
-    void Start()
+    private void OnCollisionEnter2D(Collision2D collision)    
     {
-
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-
-    }
-    private void OnCollisionEnter2D(Collision2D collision)
-     //private void OnTriggerEnter2D(Collider2D collision)
-    {
-        Destroy(gameObject);
+        if (collision.collider.gameObject.layer != LayerMask.NameToLayer("Player")) { 
+            Destroy(gameObject);
+        }
+       
     }
 }

@@ -14,17 +14,13 @@ public class ConversationM : MonoBehaviour {
     // Use this for initialization
     void Start () {
         
-        //dialogBox = GameObject.Find("DialogBox").GetComponent<Image>();
-       
-        //textHolder = GameObject.Find("DialogText").GetComponent<Text>();
+   
 
     }
 	
 	// Update is called once per frame
 	void Update () {
-        //dialogBox.enabled = false;
-        //messageGirl1 = false;
-        print("mesagge: "+messageGirl1);
+      
      
         if (messageGirl1 == true)
         {
@@ -46,19 +42,6 @@ public class ConversationM : MonoBehaviour {
             }
 
         }
-        /*
-        if (messageGirl1 == true)
-        {
-            dialogBox.enabled = true;
-
-            textHolder.text = "Would you like to play?";
-        }
-        else
-        {
-            textHolder.text = "";
-            messageGirl1 = false;
-            
-        }*/
 
     }
 

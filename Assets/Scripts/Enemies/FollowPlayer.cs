@@ -2,14 +2,14 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class FollowPlayer : Enemy {
+public class FollowPlayer : EnemiesStats {
     [HideInInspector] public bool facingRight = true;
     public static int flip = -1;
     public Transform target;
     private Animator animator;
     public float moveSpeed = 1f;
     public float rotationSpeed = 5;
-    private Rigidbody2D rb;
+  
 
     public Transform lineStart, lineEnd;
 
@@ -19,7 +19,7 @@ public class FollowPlayer : Enemy {
     // Use this for initialization
     void Start () {
         animator = GetComponent<Animator>();
-        rb = GetComponent<Rigidbody2D>();
+  
        
     }
 	
@@ -27,11 +27,7 @@ public class FollowPlayer : Enemy {
 	void Update () {
 
         animator.SetBool("attack", attack);
-
-        //transform.rotation = Quaternion.Slerp(transform.rotation, Quaternion.LookRotation(target.transform.position - transform.position), rotationSpeed * Time.deltaTime);
-        //transform.position += transform.forward * Time.deltaTime * moveSpeed;
         transform.position = Vector2.MoveTowards(transform.position, target.transform.position, moveSpeed * Time.deltaTime);
-        //transform.position = Vector2.MoveTowards(transform.position, new Vector2(target.position.x, transform.position.y), moveSpeed * Time.deltaTime);
 
         move = target.transform.position.x - transform.position.x;
         if (move > 0 && !facingRight)
@@ -53,17 +49,7 @@ public class FollowPlayer : Enemy {
         
     }
 
-    private void OnCollisionEnter2D(Collision2D collision)
-    {
-        
-
-        if (collision.gameObject.tag == "Sword")
-        {
-            base.Hit((transform.position - collision.transform.position).normalized);
-
-        }
-
-    }
+ 
 
     //Sends a ray out in front of link to detect foreground objects
     void Raycasting()

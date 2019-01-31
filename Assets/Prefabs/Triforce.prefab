@@ -22,9 +22,10 @@ GameObject:
   - component: {fileID: 212647257402670768}
   - component: {fileID: 95338122510424070}
   - component: {fileID: 60044218907016062}
+  - component: {fileID: 114490276383559428}
   m_Layer: 0
   m_Name: Triforce
-  m_TagString: Untagged
+  m_TagString: Triforce
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -36,7 +37,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1346744845893156}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 37.1, y: -10.78, z: 0}
+  m_LocalPosition: {x: 23.51, y: 2.37, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -90,6 +91,17 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &114490276383559428
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1346744845893156}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d869e696c248c4b4087cb7abbde40d9d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!212 &212647257402670768
 SpriteRenderer:
   m_ObjectHideFlags: 1

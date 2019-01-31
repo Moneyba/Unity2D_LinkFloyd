@@ -2,33 +2,21 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 
 public class GManager : MonoBehaviour {
-
-    LinkControllerScript link;
-    public GameObject linkGameObject;
-
-    //public GameObject linkGameObject;
-    public GameObject[] hearts;    
-    //public GameObject T;   
+       
    
-
     public GameObject[] triforces;
-
-   // public Enemy pig;
-   // public GameObject finalDoor;
-
-    public GameObject gameOver;
-    public AudioClip gameOvr;
-
-
-    private AudioSource audioSource;
+    
+    private Triforce destroyTriforce;
 
     public static GManager instance;
-
-    
-
+    private string sceneName;
+    public static int value = 3;
+    public static bool tenisWin = false;
+  
     void Awake()
     {
 
@@ -41,55 +29,58 @@ public class GManager : MonoBehaviour {
             instance = this;
             DontDestroyOnLoad(gameObject);
 
-            link = FindObjectOfType<LinkControllerScript>();
-            
         }
     }
 
-    // Use this for initialization
-    void Start () {
-        
-        audioSource = GetComponent<AudioSource>();       
-    }
 	
 	// Update is called once per frame
 	void Update () {
-        
-        
-        if(link != null)
-        {
-            for(int i = 0; i<hearts.Length; i++)
-            {
-                hearts[i].SetActive(i<link.health);
-            }
-
-           
-        }
-       
 
         for (int i = 0; i < triforces.Length; i++)
         {
-            triforces[i].SetActive(i < StaticValue.value);
-            print(triforces[i] + " " + (i < StaticValue.value));
-        }
-
-        if (link.health <= 0)
-        {
-
-            gameOver.SetActive(true);
-
-            
-            linkGameObject.SetActive(false);
-            audioSource.clip = gameOvr;
-            audioSource.Play();
-            if (Input.GetKeyDown(KeyCode.Space))
+            if (triforces[i] != null)
             {
-                UnityEngine.SceneManagement.SceneManager.LoadScene(UnityEngine.SceneManagement.SceneManager.GetActiveScene().buildIndex);
-                gameOver.SetActive(false);
+                triforces[i].SetActive(i < value);
             }
-        }
-        
 
+        }
+
+        if(value == 0)
+        {
+            Win();
+        }
+
+    }
+
+   
+
+    void Win()
+    {
+        AudioManager.instance.PlayMusic(null);
+        SceneManager.LoadScene("StartScreen");
+        Destroy(gameObject);
+    }
+
+    private void OnLevelWasLoaded(int level)
+    {
+        string newSceneName = SceneManager.GetActiveScene().name;
+        if (newSceneName != sceneName)
+        {            
+            sceneName = newSceneName;
+           
+            destroyTriforce = FindObjectOfType<Triforce>();
+
+            if (sceneName == "ZeldaRoom" && value <3)
+            {
+                Destroy(destroyTriforce.gameObject);
+            }
+            if (sceneName == "House3" && value < 2)
+            {
+                Destroy(destroyTriforce.gameObject);
+            }
+
+
+        }
 
     }
 }

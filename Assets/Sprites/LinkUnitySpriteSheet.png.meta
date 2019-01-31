@@ -21,6 +21,9 @@ TextureImporter:
     21300032: dam2
     21300034: dam3
     21300036: dam4
+    21300038: LinkUnitySpriteSheet_0
+    21300040: LinkUnitySpriteSheet_1
+    21300042: LinkUnitySpriteSheet_2
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -504,10 +507,70 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: LinkUnitySpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 411
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278e517975d86ef4598a727f14854ed3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkUnitySpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 411
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b614edb2c93c241b7186c048ce1cd0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinkUnitySpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 411
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930ca30551eb2f647a143953a7259f78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 0d3be3043d54ea9448e9838533072aea
     vertices: []
     indices: 
     edges: []

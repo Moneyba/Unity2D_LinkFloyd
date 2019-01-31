@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 
 public class LevelLoader : MonoBehaviour {
 
-    public string levelToLoad = "Zelda";
+    public string levelToLoad = "ZeldaRoom";
 
     public void LoadTheLevel()
     {

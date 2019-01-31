@@ -12,8 +12,6 @@ public class DontDestroy : MonoBehaviour
     public GameObject canvas;
 
 
-    int cont = 0;
-
     void Awake()
     {
 
@@ -25,23 +23,7 @@ public class DontDestroy : MonoBehaviour
         {
             instance = this;
             DontDestroyOnLoad(gameObject);
-            
 
-            
-            /*
-            for (int i = 0; i < 3; i++)
-            {
-                triforcePanel[i].SetActive(false);
-            }*/
-            /*
-                GameObject[] objs = GameObject.FindGameObjectsWithTag("DontDestroy");
-
-            if (objs.Length > 1)
-            {
-                Destroy(this.gameObject);
-            }
-
-            DontDestroyOnLoad(this.gameObject);*/
         }
 
     }

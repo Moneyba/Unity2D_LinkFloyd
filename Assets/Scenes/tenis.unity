@@ -208,7 +208,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: fbf5792157152064dac5d1852809cd78, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.36
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -530,48 +530,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c5a3ec4ec3dbbf24c9645dd6776c074b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!1001 &449740020
-Prefab:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 4113438949383562, guid: 604ce3f1d47a9154a89563148d038a0a, type: 2}
-      propertyPath: m_LocalPosition.x
-      value: 283.8663
-      objectReference: {fileID: 0}
-    - target: {fileID: 4113438949383562, guid: 604ce3f1d47a9154a89563148d038a0a, type: 2}
-      propertyPath: m_LocalPosition.y
-      value: 176.81712
-      objectReference: {fileID: 0}
-    - target: {fileID: 4113438949383562, guid: 604ce3f1d47a9154a89563148d038a0a, type: 2}
-      propertyPath: m_LocalPosition.z
-      value: -2.341197
-      objectReference: {fileID: 0}
-    - target: {fileID: 4113438949383562, guid: 604ce3f1d47a9154a89563148d038a0a, type: 2}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4113438949383562, guid: 604ce3f1d47a9154a89563148d038a0a, type: 2}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4113438949383562, guid: 604ce3f1d47a9154a89563148d038a0a, type: 2}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4113438949383562, guid: 604ce3f1d47a9154a89563148d038a0a, type: 2}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4113438949383562, guid: 604ce3f1d47a9154a89563148d038a0a, type: 2}
-      propertyPath: m_RootOrder
-      value: 5
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 604ce3f1d47a9154a89563148d038a0a, type: 2}
-  m_IsPrefabAsset: 0
 --- !u!1 &547252709
 GameObject:
   m_ObjectHideFlags: 0

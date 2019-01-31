@@ -10,11 +10,11 @@ public class LiftScript : MonoBehaviour
     public float maxSpeed = 3f;
   
     public Camera cameraUp;
-    public Camera cameraDown;
-    public Collider2D link;
-   
-   
+    public Camera cameraDown;   
     
+    private LinkController link;
+
+
     //public Camera cameraDown;
 
     private void Awake()
@@ -27,29 +27,28 @@ public class LiftScript : MonoBehaviour
     void Start()
     {
         rb2d = GetComponent<Rigidbody2D>();
-
+        link = FindObjectOfType<LinkController>();
     }
 
     // Update is called once per frame
     void Update()
     {
        
-        if (rb2d.IsTouching(link))
+        if (rb2d.IsTouching(link.linkBox))
         {
             move = Input.GetAxis("Vertical");            
             rb2d.velocity = new Vector2(0, move) * maxSpeed;
-            
-        }    
-    }
+          
+        }
+     
+    }  
 
-   
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
 
         if(collision.gameObject.name == "CameraSwap")
         {
-            print("swap");
             if (Input.GetKey("down"))
             {
 
@@ -63,7 +62,8 @@ public class LiftScript : MonoBehaviour
                 cameraDown.enabled = false;
             }
 
-        }      
+        }  
+       
 
     }
 }
