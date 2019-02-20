@@ -41,11 +41,12 @@ public class LinkController : MonoBehaviour {
     public BoxCollider2D linkBox;
     public BoxCollider2D shieldBox;
     public BoxCollider2D swordBox;
-    
-    
+
+    public static LinkController instance;
 
     void Start (){
-        
+
+        instance = this;
 		/*linkBox = link.GetComponent<BoxCollider2D>();
 		shieldBox = Shield.GetComponent<BoxCollider2D>();
 		swordBox = Sword.GetComponent<BoxCollider2D>();  */    

@@ -27,7 +27,9 @@ public class FollowPlayer : EnemiesStats {
 	void Update () {
 
         animator.SetBool("attack", attack);
-        transform.position = Vector2.MoveTowards(transform.position, target.transform.position, moveSpeed * Time.deltaTime);
+        if (target.transform.position.y > 3) {
+            transform.position = Vector2.MoveTowards(transform.position, target.transform.position, moveSpeed * Time.deltaTime);
+        }
 
         move = target.transform.position.x - transform.position.x;
         if (move > 0 && !facingRight)
@@ -52,7 +54,7 @@ public class FollowPlayer : EnemiesStats {
  
 
     //Sends a ray out in front of link to detect foreground objects
-    void Raycasting()
+    /*void Raycasting()
     {
         if (Physics2D.Linecast(lineStart.position, lineEnd.position, 1 << LayerMask.NameToLayer("Player")))
         {
@@ -63,7 +65,7 @@ public class FollowPlayer : EnemiesStats {
         {
             attack = false;
         }
-    }//Raycasting
+    }//Raycasting*/
 
     void Flip()
     {

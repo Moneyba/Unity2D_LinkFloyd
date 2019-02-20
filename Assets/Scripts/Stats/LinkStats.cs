@@ -6,14 +6,15 @@ using UnityEngine;
 public class LinkStats : CharacterStats
 {
    
-    public LinkController linkController;
-    
 
-    public void Start()
+    public float damageTime = 3;
+
+    public LinkAnimator anim;
+
+    private void Start()
     {
-        linkController = GetComponent<LinkController>();
+        anim = GetComponent<LinkAnimator>();
     }
-
 
     public override void Die()
     {
@@ -23,11 +24,27 @@ public class LinkStats : CharacterStats
        
     }
 
+   /* public override void Hit(Vector3 direction)
+    {
+        if (health < 0)
+        {
+            Die();
+        }
+        else
+        {
+            anim.triggerDamage(damageTime);
+        }
+        base.Hit(direction);
+    }
+    */
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if ((collision.gameObject.GetComponent<CharacterStats>() != null || collision.gameObject.GetComponent<EnemyBullet>() != null) && linkController.crouch == false)
+        if ((collision.gameObject.GetComponent<CharacterStats>() != null || collision.gameObject.GetComponent<EnemyBullet>() != null) && LinkController.instance.crouch == false)
         {
+
             Hit((transform.position - collision.transform.position).normalized);
+            anim.triggerDamage(damageTime);
+
             AudioManager.instance.PlaySound("Link_Hit", transform.position);
 
         }
@@ -40,10 +57,10 @@ public class LinkStats : CharacterStats
 
     }
 
-    float curTime = 0;
-    float nextDamage = 2;
+   /* float curTime = 0;
+    float nextDamage = 5;
 
-    private void OnCollisionStay2D(Collision2D collision)
+   /* private void OnCollisionStay2D(Collision2D collision)
     {        
 
         if (curTime <= 0 && collision.gameObject.tag == "CharacterStats" && linkController.crouch == false)
@@ -61,11 +78,11 @@ public class LinkStats : CharacterStats
         }
         
 
-    }
+    }*/
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.gameObject.GetComponent<CharacterStats>() != null && linkController.crouch == false)
+        if (collision.gameObject.GetComponent<CharacterStats>() != null && LinkController.instance.crouch == false)
         {
             Hit((transform.position - collision.transform.position).normalized);
             AudioManager.instance.PlaySound("Link_Hit", transform.position);
@@ -73,7 +90,7 @@ public class LinkStats : CharacterStats
         }
     }
 
-    private void OnTriggerStay2D(Collider2D collision)
+   /*private void OnTriggerStay2D(Collider2D collision)
     {
         if (curTime <= 0 && collision.gameObject.tag == "CharacterStats" && linkController.crouch == false)
         {
@@ -88,6 +105,26 @@ public class LinkStats : CharacterStats
 
             curTime -= Time.deltaTime;
         }
+    }*/
+    public void triggerDamage(float damageTime)
+    {
+        StartCoroutine(Damage(damageTime));
+    }
+
+    IEnumerator Damage(float damageTime)
+    {
+        //Ignore collision with Enemies
+        int enemyLayer = LayerMask.NameToLayer("Enemy");
+        int playerLayer = LayerMask.NameToLayer("Player");
+        Physics2D.IgnoreLayerCollision(enemyLayer, playerLayer);
+
+        //Start damage anim
+
+        //Wait for damage to end
+        yield return new WaitForSeconds(damageTime);
+
+        //Stop damage anim and re-enable collision
+        Physics2D.IgnoreLayerCollision(enemyLayer, playerLayer, false);
     }
 
 }

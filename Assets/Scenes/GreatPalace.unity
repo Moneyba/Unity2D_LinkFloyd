@@ -336,7 +336,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d190b9d1159c7df4781abb1b6e215637, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fallDelay: 0.05
+  fallDelay: 0.8
 --- !u!1 &116957504 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1466466524256422, guid: 6cde63bd140215848be3ff349f639d4b,
@@ -846,7 +846,7 @@ GameObject:
   - component: {fileID: 316696028}
   - component: {fileID: 316696032}
   - component: {fileID: 316696027}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: skull
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -1203,6 +1203,18 @@ Prefab:
       propertyPath: health
       value: 10
       objectReference: {fileID: 0}
+    - target: {fileID: 1466466524256422, guid: 6cde63bd140215848be3ff349f639d4b, type: 2}
+      propertyPath: m_Layer
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 1237355340630696, guid: 6cde63bd140215848be3ff349f639d4b, type: 2}
+      propertyPath: m_Layer
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 1371286257727946, guid: 6cde63bd140215848be3ff349f639d4b, type: 2}
+      propertyPath: m_Layer
+      value: 11
+      objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 82099337243994046, guid: 6cde63bd140215848be3ff349f639d4b, type: 2}
   m_SourcePrefab: {fileID: 100100000, guid: 6cde63bd140215848be3ff349f639d4b, type: 2}
@@ -1222,7 +1234,7 @@ GameObject:
   - component: {fileID: 435085818}
   - component: {fileID: 435085817}
   - component: {fileID: 435085816}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Skal
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2023,7 +2035,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d190b9d1159c7df4781abb1b6e215637, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fallDelay: 0.05
+  fallDelay: 0.8
 --- !u!1 &590827869
 GameObject:
   m_ObjectHideFlags: 0
@@ -2341,7 +2353,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 656114630}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: GameObject (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2378,7 +2390,7 @@ GameObject:
   - component: {fileID: 658168307}
   - component: {fileID: 658168300}
   - component: {fileID: 658168308}
-  m_Layer: 10
+  m_Layer: 11
   m_Name: Pig
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -2651,7 +2663,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 704398901}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Enemies
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2841,7 +2853,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d190b9d1159c7df4781abb1b6e215637, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fallDelay: 0.05
+  fallDelay: 0.8
 --- !u!1 &745985890
 GameObject:
   m_ObjectHideFlags: 0
@@ -3233,6 +3245,60 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &843478316
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 843478318}
+  - component: {fileID: 843478317}
+  m_Layer: 9
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!61 &843478317
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 843478316}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.10396397, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 2.3515313, y: 1}
+  m_EdgeRadius: 0
+--- !u!4 &843478318
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 843478316}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -2.04, y: 6.11, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 23
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &872031482
 GameObject:
   m_ObjectHideFlags: 0
@@ -3504,7 +3570,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d190b9d1159c7df4781abb1b6e215637, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fallDelay: 0.05
+  fallDelay: 0.8
 --- !u!1 &921801207
 GameObject:
   m_ObjectHideFlags: 0
@@ -3518,7 +3584,7 @@ GameObject:
   - component: {fileID: 921801208}
   - component: {fileID: 921801212}
   - component: {fileID: 921801213}
-  m_Layer: 10
+  m_Layer: 11
   m_Name: miniEnemy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3950,7 +4016,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d190b9d1159c7df4781abb1b6e215637, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fallDelay: 0.05
+  fallDelay: 0.8
 --- !u!1 &1013274242
 GameObject:
   m_ObjectHideFlags: 0
@@ -4704,7 +4770,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d190b9d1159c7df4781abb1b6e215637, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fallDelay: 0.05
+  fallDelay: 0.8
 --- !u!1 &1183332398
 GameObject:
   m_ObjectHideFlags: 0
@@ -4985,7 +5051,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d190b9d1159c7df4781abb1b6e215637, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fallDelay: 0.05
+  fallDelay: 0.8
 --- !u!1 &1273586945
 GameObject:
   m_ObjectHideFlags: 0
@@ -5246,7 +5312,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d190b9d1159c7df4781abb1b6e215637, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fallDelay: 0.05
+  fallDelay: 0.8
 --- !u!1 &1352781197
 GameObject:
   m_ObjectHideFlags: 0
@@ -5520,7 +5586,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d190b9d1159c7df4781abb1b6e215637, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fallDelay: 0.05
+  fallDelay: 0.8
 --- !u!1 &1456906468
 GameObject:
   m_ObjectHideFlags: 0
@@ -5655,7 +5721,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d190b9d1159c7df4781abb1b6e215637, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fallDelay: 0.05
+  fallDelay: 0.8
 --- !u!1 &1462938503
 GameObject:
   m_ObjectHideFlags: 0
@@ -5665,7 +5731,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1462938504}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: GameObject
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5913,7 +5979,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d190b9d1159c7df4781abb1b6e215637, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fallDelay: 0.05
+  fallDelay: 0.8
 --- !u!1 &1656579310
 GameObject:
   m_ObjectHideFlags: 0
@@ -6048,7 +6114,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d190b9d1159c7df4781abb1b6e215637, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fallDelay: 0.05
+  fallDelay: 0.8
 --- !u!1 &1663225017
 GameObject:
   m_ObjectHideFlags: 0
@@ -6232,7 +6298,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d190b9d1159c7df4781abb1b6e215637, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fallDelay: 0.05
+  fallDelay: 0.8
 --- !u!1 &1727700369
 GameObject:
   m_ObjectHideFlags: 0
@@ -6367,7 +6433,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d190b9d1159c7df4781abb1b6e215637, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fallDelay: 0.05
+  fallDelay: 0.8
 --- !u!1 &1729133510 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1368360817581132, guid: 751d944301a1de74f84a65a1c3215154,
@@ -6781,7 +6847,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d190b9d1159c7df4781abb1b6e215637, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fallDelay: 0.05
+  fallDelay: 0.8
 --- !u!1 &1815293885
 GameObject:
   m_ObjectHideFlags: 0
@@ -7088,7 +7154,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d190b9d1159c7df4781abb1b6e215637, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fallDelay: 0.05
+  fallDelay: 0.8
 --- !u!1 &1866939666
 GameObject:
   m_ObjectHideFlags: 0
@@ -7223,7 +7289,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d190b9d1159c7df4781abb1b6e215637, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fallDelay: 0.05
+  fallDelay: 0.8
 --- !u!1 &1891256935
 GameObject:
   m_ObjectHideFlags: 0
@@ -7358,7 +7424,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d190b9d1159c7df4781abb1b6e215637, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fallDelay: 0.05
+  fallDelay: 0.8
 --- !u!1 &1927197077
 GameObject:
   m_ObjectHideFlags: 0
@@ -7493,7 +7559,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d190b9d1159c7df4781abb1b6e215637, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fallDelay: 0.05
+  fallDelay: 0.8
 --- !u!1001 &1946044080
 Prefab:
   m_ObjectHideFlags: 0
@@ -7788,8 +7854,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   health: 5
   backForce: 10
-  linkController: {fileID: 114567713396625672, guid: afa4dd27e7b9d5a4695663122c9e6061,
-    type: 2}
+  damageTime: 3
+  anim: {fileID: 1953567766}
 --- !u!1 &1953639541
 GameObject:
   m_ObjectHideFlags: 0
@@ -7924,7 +7990,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d190b9d1159c7df4781abb1b6e215637, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fallDelay: 0.05
+  fallDelay: 0.8
 --- !u!1 &1957814082
 GameObject:
   m_ObjectHideFlags: 0
@@ -8059,7 +8125,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d190b9d1159c7df4781abb1b6e215637, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fallDelay: 0.05
+  fallDelay: 0.8
 --- !u!1 &2019836776
 GameObject:
   m_ObjectHideFlags: 0

@@ -20,33 +20,33 @@ public class LinkAnimator : MonoBehaviour
 
     [HideInInspector] public bool getTriforce = false;
 
-    LinkController link;
+   
 
    
 
     void Awake()
     {
         anim = GetComponent<Animator>();
-        link = GetComponent<LinkController>();
+        //link = GetComponent<LinkController>();
 
     }
 
     private void Update()
     {
 
-        anim.SetBool("Ground", link.grounded);
+        anim.SetBool("Ground", LinkController.instance.grounded);
         anim.SetFloat("vSpeed", GetComponent<Rigidbody2D>().velocity.y);
-        anim.SetFloat("Speed", Mathf.Abs(link.move));
-        anim.SetBool("Crouch", link.crouch);
-        anim.SetBool("Attack", link.attack);
+        anim.SetFloat("Speed", Mathf.Abs(LinkController.instance.move));
+        anim.SetBool("Crouch", LinkController.instance.crouch);
+        anim.SetBool("Attack", LinkController.instance.attack);
         anim.SetBool("Dam", dam);
         anim.SetBool("GetTriforce", getTriforce);
 
         crouch = Input.GetKey("down");
 
-        if (link.move > 0 && !link.facingRight)
+        if (LinkController.instance.move > 0 && !LinkController.instance.facingRight)
             Flip();
-        else if (link.move < 0 && link.facingRight)
+        else if (LinkController.instance.move < 0 && LinkController.instance.facingRight)
             Flip();
 
 
@@ -63,7 +63,7 @@ public class LinkAnimator : MonoBehaviour
     //Changes the scale on the screen to turn the other direction
     void Flip()
     {
-        link.facingRight = !link.facingRight;
+        LinkController.instance.facingRight = !LinkController.instance.facingRight;
         Vector3 theScale = transform.localScale;
         theScale.x *= -1;
         transform.localScale = theScale;
@@ -91,7 +91,7 @@ public class LinkAnimator : MonoBehaviour
     }
 
   
-    private void OnCollisionStay2D(Collision2D collision)
+  /* private void OnCollisionStay2D(Collision2D collision)
     {
         if ((collision.gameObject.GetComponent<CharacterStats>() != null || collision.gameObject.GetComponent<EnemyBullet>() != null) && crouch == false)
         {
@@ -103,6 +103,31 @@ public class LinkAnimator : MonoBehaviour
         }       
         
         
+    }*/
+
+
+    public void triggerDamage(float damageTime)
+    {
+        StartCoroutine(Damage(damageTime));
+    }
+
+    IEnumerator Damage(float damageTime)
+    {
+        //Ignore collision with Enemies
+        int enemyLayer = LayerMask.NameToLayer("Enemy");
+        int playerLayer = LayerMask.NameToLayer("Player");
+        Physics2D.IgnoreLayerCollision(enemyLayer, playerLayer);
+        LinkController.instance.linkBox.enabled = false;
+        LinkController.instance.linkBox.enabled = true;
+
+        //Start damage anim
+        dam = true;
+        //Wait for damage to end
+        yield return new WaitForSeconds(damageTime);
+
+        //Stop damage anim and re-enable collision
+        Physics2D.IgnoreLayerCollision(enemyLayer, playerLayer, false);
+        dam = false;
     }
 
    
